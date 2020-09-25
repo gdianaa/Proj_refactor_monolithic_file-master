@@ -1,6 +1,7 @@
 #ifndef UTILS_H
 #define UTILS_H
 #include <vector>
+#include "../includes/constants.h"
 
 
 //sorts vector inplace based on mySortOrder (inplace means the vector is modified)
