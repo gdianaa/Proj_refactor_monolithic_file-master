@@ -1,7 +1,9 @@
 #include "../includes/utils.h"
 #include"../includes/constants.h"
+#include<iostream>
 #include <vector>
 #include <string>
+using namespace std;
 //sorts vector inplace based on mySortOrder (inplace means the vector is modified)
 //returns nothing
 void sortData(const SORT_ORDER &mySortOrder,vector<process> &myProcesses){
