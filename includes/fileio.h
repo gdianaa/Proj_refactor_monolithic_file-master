@@ -3,8 +3,6 @@
 #include"../includes/constants.h"
 #include <vector>
 #include <string>
-#include <iostream>
-using namespace std;
 
 int loadData(const std::string filename, vector<process> &myProcesses);
 
